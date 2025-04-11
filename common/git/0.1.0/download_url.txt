@@ -1,0 +1,1 @@
+https://github.com/m8test/Plugins/releases/download/0.1.0/git-release-unsigned.apk

@@ -1,0 +1,1 @@
+https://github.com/m8test/language-release/releases/download/kotlin-0.1.0/com.m8test.kotlin-release_0.1.0.apk

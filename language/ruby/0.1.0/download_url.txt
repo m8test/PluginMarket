@@ -1,0 +1,1 @@
+https://github.com/m8test/language-release/releases/download/ruby-0.1.0/com.m8test.ruby-release_0.1.0.apk
