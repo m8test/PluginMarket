@@ -1,5 +1,9 @@
 # M8Test 插件市场
 
++ Tips: 如果有任何问题都可以加入我们的官方qq交流群:[749248182](https://qm.qq.com/q/d0g29SBUGY)
+  或者 [qq频道](https://pd.qq.com/g/m8testofficial),
+  官方视频教程可以到 [哔哩哔哩](https://space.bilibili.com/1588813179) 查看
+
 需要配合 [M8Test 插件](https://github.com/m8test/pluginstore) 使用
 
 本仓库需要遵循以下格式:
