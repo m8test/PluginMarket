@@ -1,1 +1,1 @@
-https://github.com/m8test/language-release/releases/download/javascript-0.1.0/com.m8test.javascript.v8-release_0.1.0.apk
+https://github.com/m8test/RhinoJs/releases/download/0.1.0/rhino-release-unsigned.apk
