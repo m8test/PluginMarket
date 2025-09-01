@@ -1,1 +1,0 @@
-https://github.com/m8test/debugger/releases/download/0.1.1/debugger-release-unsigned.apk
