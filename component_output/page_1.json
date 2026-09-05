@@ -1,0 +1,79 @@
+[
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/YumiMiyamoto/ocr-release/releases/download/ocr-0.1.0/com.m8test.ocr-release_0.1.0.apk",
+                "repository": "https://github.com/YumiMiyamoto/ocr-release"
+            }
+        ],
+        "name": "Ocr文字识别"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/YumiMiyamoto/opencv-release/releases/download/opencv-0.1.0/com.m8test.image-release_0.1.0.apk",
+                "repository": "https://github.com/YumiMiyamoto/opencv-release"
+            }
+        ],
+        "name": "Opencv图色"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/app-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/component/c1"
+            }
+        ],
+        "name": "c1"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/c2-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/component/c2"
+            }
+        ],
+        "name": "c2"
+    },
+    {
+        "latest": "3.2.0",
+        "versions": [
+            {
+                "name": "3.2.0",
+                "download_url": "https://github.com/YumiMiyamoto/scrcpy-release/releases/download/Scrcpy-3.2.0/com.m8test.scrcpy-release_3.2.0.apk",
+                "repository": "https://github.com/YumiMiyamoto/scrcpy-release"
+            }
+        ],
+        "name": "scrcpy自动化"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/storage-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/component/storage"
+            }
+        ],
+        "name": "storage"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/YumiMiyamoto/accessibility-release/releases/download/Accessibility-0.1.0/com.m8test.accessibility-release_0.1.0.apk",
+                "repository": "https://github.com/YumiMiyamoto/accessibility-release"
+            }
+        ],
+        "name": "无障碍自动化"
+    }
+]
