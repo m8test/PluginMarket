@@ -1,0 +1,68 @@
+[
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/shell-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/shell"
+            }
+        ],
+        "name": "shell"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/theme-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/theme"
+            }
+        ],
+        "name": "theme"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/image-viewer-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/image-viewer"
+            }
+        ],
+        "name": "图片查看器"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/PluginStore/releases/download/0.1.0/store-release-unsigned.apk",
+                "repository": "https://github.com/m8test/PluginStore"
+            }
+        ],
+        "name": "插件市场"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/git-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/git"
+            }
+        ],
+        "name": "文件浏览器git插件"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/ScriptRunner/releases/download/0.1.0/runner-release-unsigned.apk",
+                "repository": "https://github.com/m8test/ScriptRunner"
+            }
+        ],
+        "name": "编辑器脚本增强"
+    }
+]
