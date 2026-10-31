@@ -1,0 +1,112 @@
+[
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/accessibility-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/accessibility"
+            }
+        ],
+        "name": "accessibility"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/action-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/action"
+            }
+        ],
+        "name": "action"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/command-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/command"
+            }
+        ],
+        "name": "command"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/console-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/console"
+            }
+        ],
+        "name": "console"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/file-icons-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/file-icons"
+            }
+        ],
+        "name": "file-icons"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/hotkey-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/hotkey"
+            }
+        ],
+        "name": "hotkey"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/navigation-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/navigation"
+            }
+        ],
+        "name": "navigation"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/notification-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/notification"
+            }
+        ],
+        "name": "notification"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/screen-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/screen"
+            }
+        ],
+        "name": "screen"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/script-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/common/script"
+            }
+        ],
+        "name": "script"
+    }
+]
