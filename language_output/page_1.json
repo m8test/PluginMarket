@@ -1,0 +1,89 @@
+[
+    {
+        "latest": "0.1.1",
+        "versions": [
+            {
+                "name": "0.1.1",
+                "download_url": "https://github.com/m8test/language-release/releases/download/groovy-0.1.1/com.m8test.groovy-release_0.1.1.apk",
+                "repository": "https://github.com/m8test/language-release"
+            },
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/groovy-0.1.0/com.m8test.groovy-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "groovy"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/RhinoJs/releases/download/0.1.0/rhino-release-unsigned.apk",
+                "repository": "https://github.com/m8test/RhinoJs"
+            }
+        ],
+        "name": "javascript"
+    },
+    {
+        "latest": "0.1.1",
+        "versions": [
+            {
+                "name": "0.1.1",
+                "download_url": "https://github.com/m8test/language-release/releases/download/kotlin-0.1.1/com.m8test.kotlin-release_0.1.1.apk",
+                "repository": "https://github.com/m8test/language-release"
+            },
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/kotlin-0.1.0/com.m8test.kotlin-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "kotlin"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/lua-0.1.0/com.m8test.lua-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "lua"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/php-0.1.0/com.m8test.php-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "php"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/python-0.1.0/com.m8test.python-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "python"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/language-release/releases/download/ruby-0.1.0/com.m8test.ruby-release_0.1.0.apk",
+                "repository": "https://github.com/m8test/language-release"
+            }
+        ],
+        "name": "ruby"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/project-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/builder/project"
+            }
+        ],
+        "name": "project"
+    },
+    {
+        "latest": "0.1.0",
+        "versions": [
+            {
+                "name": "0.1.0",
+                "download_url": "https://github.com/m8test/Plugins/releases/download/0.1.0/settings-release-unsigned.apk",
+                "repository": "https://github.com/m8test/Plugins/tree/main/builder/settings"
+            }
+        ],
+        "name": "settings"
+    }
+]
